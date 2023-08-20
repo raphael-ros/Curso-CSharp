@@ -1,0 +1,15 @@
+C:\Users\rapha\Desktop\Udemy - C#\bin\Debug\net7.0\Udemy - C#.exe
+C:\Users\rapha\Desktop\Udemy - C#\bin\Debug\net7.0\Udemy - C#.deps.json
+C:\Users\rapha\Desktop\Udemy - C#\bin\Debug\net7.0\Udemy - C#.runtimeconfig.json
+C:\Users\rapha\Desktop\Udemy - C#\bin\Debug\net7.0\Udemy - C#.dll
+C:\Users\rapha\Desktop\Udemy - C#\bin\Debug\net7.0\Udemy - C#.pdb
+C:\Users\rapha\Desktop\Udemy - C#\obj\Debug\net7.0\Udemy - C#.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Udemy - C#\obj\Debug\net7.0\Udemy - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\Udemy - C#\obj\Debug\net7.0\Udemy - C#.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\obj\Debug\net7.0\Udemy - C#.AssemblyInfo.cs
+C:\Users\rapha\Desktop\Udemy - C#\obj\Debug\net7.0\Udemy - C#.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\obj\Debug\net7.0\Udemy - C#.dll
+C:\Users\rapha\Desktop\Udemy - C#\obj\Debug\net7.0\refint\Udemy - C#.dll
+C:\Users\rapha\Desktop\Udemy - C#\obj\Debug\net7.0\Udemy - C#.pdb
+C:\Users\rapha\Desktop\Udemy - C#\obj\Debug\net7.0\Udemy - C#.genruntimeconfig.cache
+C:\Users\rapha\Desktop\Udemy - C#\obj\Debug\net7.0\ref\Udemy - C#.dll

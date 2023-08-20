@@ -1,0 +1,15 @@
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\bin\Debug\net7.0\ProdutosEstoque.exe
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\bin\Debug\net7.0\ProdutosEstoque.deps.json
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\bin\Debug\net7.0\ProdutosEstoque.runtimeconfig.json
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\bin\Debug\net7.0\ProdutosEstoque.dll
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\bin\Debug\net7.0\ProdutosEstoque.pdb
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.AssemblyInfo.cs
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.dll
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\obj\Debug\net7.0\refint\ProdutosEstoque.dll
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.pdb
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.genruntimeconfig.cache
+C:\Users\rapha\Desktop\Udemy - C#\ProdutosEstoque\obj\Debug\net7.0\ref\ProdutosEstoque.dll

@@ -1,0 +1,30 @@
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\bin\Debug\net7.0\Exercicio Funcionario.exe
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\bin\Debug\net7.0\Exercicio Funcionario.deps.json
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\bin\Debug\net7.0\Exercicio Funcionario.runtimeconfig.json
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\bin\Debug\net7.0\Exercicio Funcionario.dll
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\bin\Debug\net7.0\Exercicio Funcionario.pdb
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\obj\Debug\net7.0\Exercicio Funcionario.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\obj\Debug\net7.0\Exercicio Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\obj\Debug\net7.0\Exercicio Funcionario.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\obj\Debug\net7.0\Exercicio Funcionario.AssemblyInfo.cs
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\obj\Debug\net7.0\Exercicio Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\obj\Debug\net7.0\Exercicio Funcionario.dll
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\obj\Debug\net7.0\refint\Exercicio Funcionario.dll
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\obj\Debug\net7.0\Exercicio Funcionario.pdb
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\obj\Debug\net7.0\Exercicio Funcionario.genruntimeconfig.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio Funcionario\obj\Debug\net7.0\ref\Exercicio Funcionario.dll
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\bin\Debug\net7.0\Exercicio Funcionario.exe
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\bin\Debug\net7.0\Exercicio Funcionario.deps.json
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\bin\Debug\net7.0\Exercicio Funcionario.runtimeconfig.json
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\bin\Debug\net7.0\Exercicio Funcionario.dll
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\bin\Debug\net7.0\Exercicio Funcionario.pdb
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\obj\Debug\net7.0\Exercicio Funcionario.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\obj\Debug\net7.0\Exercicio Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\obj\Debug\net7.0\Exercicio Funcionario.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\obj\Debug\net7.0\Exercicio Funcionario.AssemblyInfo.cs
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\obj\Debug\net7.0\Exercicio Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\obj\Debug\net7.0\Exercicio Funcionario.dll
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\obj\Debug\net7.0\refint\Exercicio Funcionario.dll
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\obj\Debug\net7.0\Exercicio Funcionario.pdb
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\obj\Debug\net7.0\Exercicio Funcionario.genruntimeconfig.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 2 - Funcionario\obj\Debug\net7.0\ref\Exercicio Funcionario.dll

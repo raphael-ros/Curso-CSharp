@@ -1,0 +1,15 @@
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\bin\Debug\net7.0\NomeSalario.exe
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\bin\Debug\net7.0\NomeSalario.deps.json
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\bin\Debug\net7.0\NomeSalario.runtimeconfig.json
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\bin\Debug\net7.0\NomeSalario.dll
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\bin\Debug\net7.0\NomeSalario.pdb
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\obj\Debug\net7.0\NomeSalario.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\obj\Debug\net7.0\NomeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\obj\Debug\net7.0\NomeSalario.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\obj\Debug\net7.0\NomeSalario.AssemblyInfo.cs
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\obj\Debug\net7.0\NomeSalario.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\obj\Debug\net7.0\NomeSalario.dll
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\obj\Debug\net7.0\refint\NomeSalario.dll
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\obj\Debug\net7.0\NomeSalario.pdb
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\obj\Debug\net7.0\NomeSalario.genruntimeconfig.cache
+C:\Users\rapha\Desktop\Udemy - C#\NomeSalario\obj\Debug\net7.0\ref\NomeSalario.dll

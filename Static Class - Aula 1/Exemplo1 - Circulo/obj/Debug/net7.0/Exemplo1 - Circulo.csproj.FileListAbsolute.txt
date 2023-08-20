@@ -1,0 +1,15 @@
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\bin\Debug\net7.0\Exemplo1 - Circulo.exe
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\bin\Debug\net7.0\Exemplo1 - Circulo.deps.json
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\bin\Debug\net7.0\Exemplo1 - Circulo.runtimeconfig.json
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\bin\Debug\net7.0\Exemplo1 - Circulo.dll
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\bin\Debug\net7.0\Exemplo1 - Circulo.pdb
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\obj\Debug\net7.0\Exemplo1 - Circulo.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\obj\Debug\net7.0\Exemplo1 - Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\obj\Debug\net7.0\Exemplo1 - Circulo.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\obj\Debug\net7.0\Exemplo1 - Circulo.AssemblyInfo.cs
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\obj\Debug\net7.0\Exemplo1 - Circulo.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\obj\Debug\net7.0\Exemplo1 - Circulo.dll
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\obj\Debug\net7.0\refint\Exemplo1 - Circulo.dll
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\obj\Debug\net7.0\Exemplo1 - Circulo.pdb
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\obj\Debug\net7.0\Exemplo1 - Circulo.genruntimeconfig.cache
+C:\Users\rapha\Desktop\Udemy - C#\Static Class - Aula 1\Exemplo1 - Circulo\obj\Debug\net7.0\ref\Exemplo1 - Circulo.dll

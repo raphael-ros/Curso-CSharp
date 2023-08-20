@@ -1,0 +1,15 @@
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\bin\Debug\net7.0\Exemplo Triangulos.exe
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\bin\Debug\net7.0\Exemplo Triangulos.deps.json
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\bin\Debug\net7.0\Exemplo Triangulos.runtimeconfig.json
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\bin\Debug\net7.0\Exemplo Triangulos.dll
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\bin\Debug\net7.0\Exemplo Triangulos.pdb
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\obj\Debug\net7.0\Exemplo Triangulos.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\obj\Debug\net7.0\Exemplo Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\obj\Debug\net7.0\Exemplo Triangulos.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\obj\Debug\net7.0\Exemplo Triangulos.AssemblyInfo.cs
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\obj\Debug\net7.0\Exemplo Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\obj\Debug\net7.0\Exemplo Triangulos.dll
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\obj\Debug\net7.0\refint\Exemplo Triangulos.dll
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\obj\Debug\net7.0\Exemplo Triangulos.pdb
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\obj\Debug\net7.0\Exemplo Triangulos.genruntimeconfig.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exemplo Triangulos\obj\Debug\net7.0\ref\Exemplo Triangulos.dll

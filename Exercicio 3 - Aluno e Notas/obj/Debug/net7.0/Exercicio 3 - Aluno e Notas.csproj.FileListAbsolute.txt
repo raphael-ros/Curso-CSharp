@@ -1,0 +1,15 @@
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\obj\Debug\net7.0\Exercicio 3 - Aluno e Notas.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\obj\Debug\net7.0\Exercicio 3 - Aluno e Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\obj\Debug\net7.0\Exercicio 3 - Aluno e Notas.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\obj\Debug\net7.0\Exercicio 3 - Aluno e Notas.AssemblyInfo.cs
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\obj\Debug\net7.0\Exercicio 3 - Aluno e Notas.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\bin\Debug\net7.0\Exercicio 3 - Aluno e Notas.exe
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\bin\Debug\net7.0\Exercicio 3 - Aluno e Notas.deps.json
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\bin\Debug\net7.0\Exercicio 3 - Aluno e Notas.runtimeconfig.json
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\bin\Debug\net7.0\Exercicio 3 - Aluno e Notas.dll
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\bin\Debug\net7.0\Exercicio 3 - Aluno e Notas.pdb
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\obj\Debug\net7.0\Exercicio 3 - Aluno e Notas.dll
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\obj\Debug\net7.0\refint\Exercicio 3 - Aluno e Notas.dll
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\obj\Debug\net7.0\Exercicio 3 - Aluno e Notas.pdb
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\obj\Debug\net7.0\Exercicio 3 - Aluno e Notas.genruntimeconfig.cache
+C:\Users\rapha\Desktop\Udemy - C#\Exercicio 3 - Aluno e Notas\obj\Debug\net7.0\ref\Exercicio 3 - Aluno e Notas.dll

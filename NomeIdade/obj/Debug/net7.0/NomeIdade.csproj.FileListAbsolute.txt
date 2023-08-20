@@ -1,0 +1,15 @@
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\bin\Debug\net7.0\NomeIdade.exe
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\bin\Debug\net7.0\NomeIdade.deps.json
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\bin\Debug\net7.0\NomeIdade.runtimeconfig.json
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\bin\Debug\net7.0\NomeIdade.dll
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\bin\Debug\net7.0\NomeIdade.pdb
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\obj\Debug\net7.0\NomeIdade.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\obj\Debug\net7.0\NomeIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\obj\Debug\net7.0\NomeIdade.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\obj\Debug\net7.0\NomeIdade.AssemblyInfo.cs
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\obj\Debug\net7.0\NomeIdade.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\obj\Debug\net7.0\NomeIdade.dll
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\obj\Debug\net7.0\refint\NomeIdade.dll
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\obj\Debug\net7.0\NomeIdade.pdb
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\obj\Debug\net7.0\NomeIdade.genruntimeconfig.cache
+C:\Users\rapha\Desktop\Udemy - C#\NomeIdade\obj\Debug\net7.0\ref\NomeIdade.dll
