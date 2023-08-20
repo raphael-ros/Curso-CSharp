@@ -16,3 +16,22 @@ public class ConversorDeMoeda {
         return (quantia + (IOF * quantia)) * cotacao;
     }
 }
+
+public class showMsg {
+    double cotacaoDia = 0.0;
+    double qntDolares = 0.0;
+
+    public static double Cotacao()
+    {
+        Write("Escreva a cotação do dolar: R$");
+        double cotacaoDia = double.Parse(ReadLine(), CultureInfo.InvariantCulture);
+        return cotacaoDia;
+    }
+
+    public static double QntDolares()
+    {
+        Write("Quantos dólares você possui? $");
+        double qntDolares = double.Parse(ReadLine(), CultureInfo.InvariantCulture);
+        return qntDolares;
+    }
+}

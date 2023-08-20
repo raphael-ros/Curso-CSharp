@@ -12,23 +12,16 @@ Clear();
 switch (resp)
 {
     case 1:
-        Write("Escreva a cotação do dolar: R$");
-        double cotacao = double.Parse(ReadLine(), CultureInfo.InvariantCulture);
+        showMsg.Cotacao();
+        showMsg.QntDolares();
+        double valorFinal = ConversorDeMoeda.DolarParaReal(showMsg.Cotacao, showMsg.QntDolares);
 
-        Write("Quantos dólares você vai vender? $");
-        double qntDolares = double.Parse(ReadLine(), CultureInfo.InvariantCulture);
-
-        double valorFinal = ConversorDeMoeda.DolarParaReal(cotacao, qntDolares);
         Write("Valor a ser recebido em reais: R$" + valorFinal.ToString("F2", CultureInfo.InvariantCulture));
         break;
     
     case 2:
-        Write("Escreva a cotação do dolar: R$");
-        cotacao = double.Parse(ReadLine(), CultureInfo.InvariantCulture);
-
-        Write("Quantos dólares você vai comprar? ");
-        qntDolares = double.Parse(ReadLine(), CultureInfo.InvariantCulture);
-
+        showMsg.Cotacao();
+        showMsg.QntDolares();
         valorFinal = ConversorDeMoeda.RealParaDolar(cotacao, qntDolares);
         Write("Valor a ser gasto em reais: R$" + valorFinal.ToString("F2", CultureInfo.InvariantCulture));
         break;
