@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rapha\\Desktop\\Udemy - C#\\Static Class - Aula 1\\Conversor de Moedas - Exerc.Fixacao\\Conversor de Moedas - Exerc.Fixacao.csproj",
+      "projectUniqueName": "C:\\Users\\rapha\\Documents\\GitHub\\Curso-CSharp\\Static Class\\Conversor de Moedas - Exerc.Fixacao\\Conversor de Moedas - Exerc.Fixacao.csproj",
       "projectName": "Conversor de Moedas - Exerc.Fixacao",
-      "projectPath": "C:\\Users\\rapha\\Desktop\\Udemy - C#\\Static Class - Aula 1\\Conversor de Moedas - Exerc.Fixacao\\Conversor de Moedas - Exerc.Fixacao.csproj",
+      "projectPath": "C:\\Users\\rapha\\Documents\\GitHub\\Curso-CSharp\\Static Class\\Conversor de Moedas - Exerc.Fixacao\\Conversor de Moedas - Exerc.Fixacao.csproj",
       "packagesPath": "C:\\Users\\rapha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rapha\\Desktop\\Udemy - C#\\Static Class - Aula 1\\Conversor de Moedas - Exerc.Fixacao\\obj\\",
+      "outputPath": "C:\\Users\\rapha\\Documents\\GitHub\\Curso-CSharp\\Static Class\\Conversor de Moedas - Exerc.Fixacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

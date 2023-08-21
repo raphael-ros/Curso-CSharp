@@ -12,17 +12,12 @@ Clear();
 switch (resp)
 {
     case 1:
-        showMsg.Cotacao();
-        showMsg.QntDolares();
-        double valorFinal = ConversorDeMoeda.DolarParaReal(showMsg.Cotacao, showMsg.QntDolares);
-
+        double valorFinal = ConversorDeMoeda.DolarParaReal(showMsg.Cotacao(), showMsg.QntDolares());
         Write("Valor a ser recebido em reais: R$" + valorFinal.ToString("F2", CultureInfo.InvariantCulture));
         break;
     
     case 2:
-        showMsg.Cotacao();
-        showMsg.QntDolares();
-        valorFinal = ConversorDeMoeda.RealParaDolar(cotacao, qntDolares);
+        valorFinal = ConversorDeMoeda.RealParaDolar(showMsg.Cotacao(), showMsg.QntDolares());
         Write("Valor a ser gasto em reais: R$" + valorFinal.ToString("F2", CultureInfo.InvariantCulture));
         break;
     default:
