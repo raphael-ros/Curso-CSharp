@@ -2,13 +2,21 @@
 using System.Globalization;
 using static System.Console;
 using System.Globalization;
+using System.Net;
 
 Clear();
-WriteLine("[1] - Vender Dolares;\n[2] - Comprar Dólares.");
-Write("Escolha qual função deseja aplicar: ");
-int resp = int.Parse(ReadLine());
-Clear();
-
+int resp = 0;
+while (resp <= 0 || resp >= 3)
+    {
+        WriteLine("[1] - Vender Dolares;\n[2] - Comprar Dólares.");
+        Write("Escolha qual função deseja aplicar: ");
+        resp = int.Parse(ReadLine());
+        Clear();
+        if (resp <= 0 || resp >= 3)
+        {
+            WriteLine("Insira um número válido.");
+        }
+    }
 switch (resp)
 {
     case 1:
@@ -19,9 +27,6 @@ switch (resp)
     case 2:
         valorFinal = ConversorDeMoeda.RealParaDolar(showMsg.Cotacao(), showMsg.QntDolares());
         Write("Valor a ser gasto em reais: R$" + valorFinal.ToString("F2", CultureInfo.InvariantCulture));
-        break;
-    default:
-        WriteLine("Insira um número válido.");
         break;
 }
 
